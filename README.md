@@ -8,7 +8,7 @@ This project is a machine learning-based web application that predicts the estim
 
 ## 🌟 Demo
 
-🔗 **Live Web App:** *(Add your Readdy app link here)*
+🔗 **Live Web App:** https://readdy.link/preview/c8b18dca-25af-4da8-899c-07a0dc9b91e0/1112798
 
 ---
 
